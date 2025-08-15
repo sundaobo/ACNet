@@ -1,1 +1,2 @@
-# ACNet
+python==3.9.2
+torch==2.5.1
